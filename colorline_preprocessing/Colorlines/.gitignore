@@ -1,0 +1,11 @@
+# storeを無視
+*/.DS_Store
+
+# outImgsも無視
+outImgs/
+
+# asvファイルは無視
+*.asv
+
+# パラメータファイルも無視
+preferences.txt
